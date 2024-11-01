@@ -1,0 +1,6 @@
+compatibility: FULL_TRANSITIVE
+subjects:
+  - name: my-new-subject
+    compatibility: BACKWARD
+    file: User.avsc
+    type: AVRO
